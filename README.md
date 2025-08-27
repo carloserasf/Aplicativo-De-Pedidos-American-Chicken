@@ -5,12 +5,30 @@ Projeto que visa a criação de um aplicativo próprio de pedidos do meu restaur
 Este projeto é um sistema de pedidos online desenvolvido para ter um contato mais direto e profissional com os clientes do meu restaurante, não dependendo apenas do Ifood para isso. Antes desse projeto, estávamos nos limitando apenas em contatos via WhatsApp ou ligação. Todavia, com a criação deste projeto, é possível gerenciar e profissionalizar nosso sistema de pedidos fora do Ifood e não depender deles para tudo.
 
 # 🚀 Tecnologias Utilizadas
-Frontend: React
+• Frontend: React
 
-Backend: Node.js
+• Backend: Node.js
 
-Banco de Dados: MySQL
+• Banco de Dados: MySQL
 
 # 📋 Funcionalidades
+📱 Catálogo digital de produtos (frango, lanches, acompanhamentos, bebidas)
+
+🛒 Carrinho de compras
+
+💳 Sistema de pagamento integrado
+
+📝 Gestão de pedidos em tempo real
+
+👨‍🍳 Painel para controle da cozinha e entregas
+
+📊 Relatórios básicos de vendas
 
 # 🛠️ Futuras Melhorias
+• Integração completa com iFood
+
+• Dashboard avançado para gestão financeira
+
+• App mobile para clientes
+
+• Notificações automáticas de status do pedido
