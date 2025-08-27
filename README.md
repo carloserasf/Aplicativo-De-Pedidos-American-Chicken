@@ -32,3 +32,7 @@ Este projeto é um sistema de pedidos online desenvolvido para ter um contato ma
 • App mobile para clientes
 
 • Notificações automáticas de status do pedido
+
+# 👨‍💻 Autor
+
+Projeto desenvolvido por Carlos Eras Filho no contexto do meu restaurante próprio American Chicken!
